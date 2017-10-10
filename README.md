@@ -5,6 +5,7 @@ A KnockoutJS Plugin for model and property validation
 [![Bower version](https://badge.fury.io/bo/knockout-validation.svg)](http://badge.fury.io/bo/knockout-validation)
 [![npm version](https://badge.fury.io/js/knockout.validation.svg)](http://badge.fury.io/js/knockout.validation)
 [![NuGet version](https://badge.fury.io/nu/Knockout.Validation.svg)](http://badge.fury.io/nu/Knockout.Validation)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/knockout.validation/badge?style=rounded)](https://www.jsdelivr.com/package/npm/knockout.validation)
 
 Contributors:
 
